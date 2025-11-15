@@ -1,6 +1,6 @@
 # 🛡️ Saathi - Tourist Safety System
 
-## Smart India Hackathon (SIH) Project
+## Smart India Hackathon (SIH 2025) Project
 
 A comprehensive tourist safety and monitoring system built with FastAPI backend and React frontend, featuring real-time location tracking, geofencing, and emergency response capabilities.
 
